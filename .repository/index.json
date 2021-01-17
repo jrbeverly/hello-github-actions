@@ -1,0 +1,19 @@
+{
+  "slug": "hello-github-actions",
+  "namespace": "jrbeverly",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "github",
+    "github-actions",
+    "tutorial"
+  ],
+  "languages": [
+    "Dockerfile",
+    "Shell"
+  ]
+}
